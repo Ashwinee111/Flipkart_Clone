@@ -20,7 +20,9 @@ https://flipkart-io.netlify.app/
 - Add to Cart
 - Responsive for all Device
 
+![screencapture-flipkart-io-netlify-app-2023-10-08-20_55_55](https://github.com/Ashwinee111/Flipkart-Clone/assets/115965925/93479d03-4602-4d56-90ce-94e390811320)
 
 ## Authors
-
 - [Ashwinee111](https://github.com/Ashwinee111)
+
+
